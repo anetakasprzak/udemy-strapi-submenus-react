@@ -1,5 +1,5 @@
 const Submenu = () => {
-  return <div>Submenu</div>;
+  return <h2>Submenu</h2>;
 };
 
 export default Submenu;
